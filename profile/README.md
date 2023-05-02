@@ -1,12 +1,20 @@
-## Hi there 👋
 
-<!--
+# Witaj w Szkole Dotneta 👋
 
-**Here are some ideas to get you started:**
+<table>
+  <tr>
+    <td>
+Ta organizacja na GitHubie wykorzystywana jest przez członków społeczności Szkoły Dotneta, do wspólnych projektów, materiałów z live'ów, a także przyszłości czegoś więcej 😉
+    </td>
+    <td>
+      <img src ="https://user-images.githubusercontent.com/13180578/235675712-128a606a-589e-4480-85bf-c45805882236.png">
+    </td>
+  </tr>
+</table>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Przydatne linki
+
+- ### 👨‍👨‍👦‍👦 [Discord naszej społeczności](https://szkoladotneta.pl/discord) 
+- ### 🎬 [Kanał YouTube Szkoły Dotneta](https://www.youtube.com/@kajetanduszynski-szkoadotn1463)
+- ### 🌐 [Strona internetowa Szkoły Dotneta](https://szkoladotneta.pl/)
